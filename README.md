@@ -18,5 +18,4 @@
 
 <h2>🔍Contato</h2>
 <p>E-mail: anabeatrizscarmoni@gmail.com <br>
-Linkedin: Ana Beatriz Santucci Carmoni
-</p>
+Linkedin: Ana Beatriz Santucci Carmoni</p>
